@@ -1,2 +1,3 @@
-# Cyclistic-Analysis
-I have analysed Cyclistic's data to find insights which will propel their business forward and made a dashboard summarising these insights.
+# Cyclistic bike-share Analysis (Using R and Tableau)
+## Project Objective 
+The Cyclistic team would like to understand more about their 2 different members, customers and subscribers. 
