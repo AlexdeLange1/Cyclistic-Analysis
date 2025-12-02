@@ -15,4 +15,8 @@ The Cyclistic team would like to understand more about their 2 different members
 - Which days have the most bike rides
 - How many customer rides are there each month
 - How many susbcriber rides are there each month
-- 
+- What are the busiest hours of the day
+
+## Dashboard
+
+<img width="2003" height="1003" alt="CyclistDashboard2" src="https://github.com/user-attachments/assets/d74a0efd-d89c-40aa-a275-42b1fb257b5e" />
