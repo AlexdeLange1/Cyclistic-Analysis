@@ -1,0 +1,15 @@
+"day_of_week","usertype","mean_length","total_rides"
+"Monday","Customer",28.6862433862434,567
+"Monday","Subscriber",11.0249158878505,48150
+"Tuesday","Customer",29.1281756180733,782
+"Tuesday","Subscriber",11.2610759001813,57905
+"Wednesday","Customer",28.7725318471338,628
+"Wednesday","Subscriber",11.066662609119,57506
+"Thursday","Customer",26.2454332052924,781
+"Thursday","Subscriber",10.9225616029901,63498
+"Friday","Customer",28.0287931034483,870
+"Friday","Subscriber",11.0741382027341,59227
+"Saturday","Customer",37.2445075757576,1320
+"Saturday","Subscriber",12.6814795045743,29039
+"Sunday","Customer",35.1733504273504,975
+"Sunday","Subscriber",11.7496468396318,23974
