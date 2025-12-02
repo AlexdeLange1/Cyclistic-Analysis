@@ -25,7 +25,7 @@ The Cyclistic team would like to understand more about their 2 different members
 
 ## Project insights
 - Tourist attractions are the least popular stations as most of the Cyclistic bike users use their bikes for transport to work and back (+95%)
-- The top 3 stations are: 1. Clinton St & Washington Blvd with 7563 rides. 2. Clinton St & Madison St with 6280 rides. 3. Canal St & Adams St with 6208 rides
+- The top 3 stations are: 1. Clinton St & Washington Blvd 2. Clinton St & Madison St 3. Canal St & Adams St
 - The most popular days are Tuesdays, Thursdays and Fridays. All weekdays!
 - The times with the most rides during the week are: 8am, 4pm and 5pm
 
